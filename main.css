@@ -5,7 +5,8 @@ body {
 }
 .header { 	text-align: center;}
 .AboutUs { text-align: center;
-background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/be/Pretty-flowers_-_Virginia_-_ForestWander.jpg");
+background-image: 
+	url("https://upload.wikimedia.org/wikipedia/commons/b/be/Pretty-flowers_-_Virginia_-_ForestWander.jpg");
   background-size: cover;
 }
 .links {margin: 20px;}
