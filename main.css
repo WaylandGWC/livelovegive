@@ -4,7 +4,10 @@ body {
 	width: 100%;
 }
 .header { 	text-align: center;}
-.AboutUs { text-align: center;}
+.AboutUs { text-align: center;
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/be/Pretty-flowers_-_Virginia_-_ForestWander.jpg");
+  background-size: cover;
+}
 .links {margin: 20px;}
 .CharityHeading { text-align: center;}
 .CharityLinks {margin: 20px;}
