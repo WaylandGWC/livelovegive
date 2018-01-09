@@ -1,18 +1,10 @@
-head{
-	style{
-		.links:hover{
-			background-color: white;
-		}
-	}
-}
 body {
 	height: 100%;
 	margin: 0;
 	width: 100%;
 }
-.header { 	text-align: center;}
-.AboutUs { text-align: center;
-}
+.header {text-align: center;}
+.AboutUs { text-align: center;}
 .links {margin: 20px;}
 .CharityHeading { text-align: center;}
 .CharityLinks {margin: 20px;
