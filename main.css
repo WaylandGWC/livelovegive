@@ -4,7 +4,8 @@ body {
 	width: 100%;
 }
 .header {text-align: center;}
-.AboutUs { text-align: center;}
+.AboutUs {margin: 20px;
+	text-align: center;}
 .links {margin: 20px;}
 .CharityHeading { text-align: center;}
 .CharityLinks {margin: 20px;
