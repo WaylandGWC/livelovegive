@@ -2,8 +2,7 @@ body {
 	height: 100%;
 	margin: 0;
 	width: 100%;
-<font face="lato"/font>
-
+        font: "Lato"  
 }
 .header {margin: 200px;
 	text-align: center;}
