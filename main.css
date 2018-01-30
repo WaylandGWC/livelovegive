@@ -17,6 +17,7 @@ body {background-image:
   background-size: cover;}
 .CharityDescriptions {margin: 20px;}
 .Spotlight 
-{  	margin: 20px;
+{  	text-align: center;
+	margin: 20px;
 	border: 2px solid black;}
 .CharityTitles {text-align: center;}
