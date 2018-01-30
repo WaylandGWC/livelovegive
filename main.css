@@ -2,7 +2,8 @@ body {
 	height: 100%;
 	margin: 0;
 	width: 100%;
-	font-family: "Courier New", monospace;
+<font face="lato"/font>
+
 }
 .header {margin: 200px;
 	text-align: center;}
