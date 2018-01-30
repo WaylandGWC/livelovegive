@@ -2,7 +2,7 @@ body {
 	height: 100%;
 	margin: 0;
 	width: 100%;
-	Font: Lato;
+	font-family: "Courier New", monospace;
 }
 .header {margin: 200px;
 	text-align: center;}
