@@ -3,7 +3,8 @@ body {
 	margin: 0;
 	width: 100%;
 }
-.header {text-align: center;}
+.header {<FONT FACE="roboto">roboto font</FONT>
+	text-align: center;}
 .AboutUs {margin: 30px;
 	text-align: center;}
 .links {margin: 20px;}
@@ -16,6 +17,6 @@ body {background-image:
   background-size: cover;}
 .CharityDescriptions {margin: 20px;}
 .Spotlight 
-{  	text-align: center;
+{  	margin: 20px;
 	border: 2px solid black;}
 .CharityTitles {text-align: center;}
