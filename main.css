@@ -3,10 +3,10 @@ body {
 	margin: 0;
 	width: 100%;
   
-font-family: Courier;}      
+font-family: Courier;     
 }
 .header {margin: 200px;
-	text-align: center;
+	text-align: center;}
 .AboutUs {margin: 30px;
 	text-align: center;}
 .links {margin: 20px;}
