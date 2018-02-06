@@ -10,7 +10,7 @@ font-family: Courier;
 .AboutUs {margin: 30px;
 	text-align: center;}
 .right {
-   float: left;
+   float: right;
    padding: 0 20px 20px 0;}
 .links {margin: 20px;}
 .CharityHeading { text-align: center;}
