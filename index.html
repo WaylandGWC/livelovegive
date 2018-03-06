@@ -11,8 +11,21 @@ Live Love Give
  
   <div class="Links">
  <a href= "http://www.waylandgwc.org/livelovegive/">Home</a> |
-  <a href="http://www.waylandgwc.org/livelovegive/charities.html">Charities</a> |
- <a href="http://www.waylandgwc.org/livelovegive/about.html">About</a>
+   <div class="dropdown">
+    <input id="checkbox_toggle" type="checkbox" />
+    <label for="checkbox_toggle">Charities</label>
+    <ul>
+      <li><a href="#">Animal Charities</a> </li>
+      <li><a href="#">Hunger Charities</a></li>
+      <li><a href="#">Cancer Charities</a></li>
+      <li><a href="#">Children Charities</a></li>
+     <li><a href="#">Medical Charities</a></li>
+      <li><a href="#">Education Charities</a></li>  
+     <li><a href="#">Disaster Relief Charities</a></li>  
+  </ul>
+</div>
+ <script>
+   <a href="http://www.waylandgwc.org/livelovegive/about.html">About</a>
  </div>
  
  <div class="Header">
@@ -57,20 +70,7 @@ Live Love Give
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
- <div class="dropdown">
-    <input id="checkbox_toggle" type="checkbox" />
-    <label for="checkbox_toggle">Charities</label>
-    <ul>
-      <li><a href="#">Animal Charities</a> </li>
-      <li><a href="#">Hunger Charities</a></li>
-      <li><a href="#">Cancer Charities</a></li>
-      <li><a href="#">Children Charities</a></li>
-     <li><a href="#">Medical Charities</a></li>
-      <li><a href="#">Education Charities</a></li>  
-     <li><a href="#">Disaster Relief Charities</a></li>  
-  </ul>
-</div>
- <script>
+
   var slideIndex = 0;
 showSlides();
 
