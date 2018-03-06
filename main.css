@@ -182,21 +182,6 @@ ul li a{
 }
 
 
-/**
-
-    By using the Following-sibling selector (~),
-    we can target elements positioned after our checkbox in the DOM tree.
-
-    With the state pseudo selector (:checked),
-    we can make changes depending on the state of the checkbox.
-
-    Using this combination of selectors
-    allows to change the color of the label
-    and show the list of items
-    only when the checkbox is checked.
-
-*/
-
 input[type=checkbox]:checked ~ label {
     background-color: #3D88BD;
 }
