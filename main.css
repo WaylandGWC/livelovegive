@@ -7,7 +7,8 @@ font-family: Garamond;     }
 .header {margin-left: 200px; margin-right: 200px;
 	text-align: center;}
 .AboutUs {margin: 30px;
-	text-align: center;}
+	text-align: center;body }
+	{background-color: coral;}
 .links {margin-left: 40px; margin-top: 20px; clear; both;}
 .CharityHeading { text-align: center;}
 .CharityLinks {margin: 20px;
