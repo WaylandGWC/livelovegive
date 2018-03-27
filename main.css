@@ -177,7 +177,7 @@ font-family:'Capita';
 }
 .menu a {
 transition:all linear 0.15s;
-color:#8ad2ee;
+color:#ffffff;
 }
 .menu li:hover > a, .menu .current-item > a {
 text-decoration:none;
