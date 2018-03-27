@@ -154,7 +154,7 @@ label{
 
 
 body {
-background:#ffffff url('body-bg.jpg');
+background:#ffffff url('body-bg.jpg');/*Background*/
 }
 .clearfix:after {
 display:block;
@@ -164,7 +164,7 @@ clear:both;
 .menu-wrap {
 width:100%;
 box-shadow:0px 1px 3px rgba(0,0,0,0.2);
-background:#f688d6;
+background:#f688d6; /*Hover color for text on home-about-charities*/
 }
 .menu {
 width:1248px;
@@ -177,11 +177,11 @@ font-family:'Capita';
 }
 .menu a {
 transition:all linear 0.15s;
-color:#ffffff;
+color:#000000;/*Home-Charities-About text color, not hovering,*/
 }
 .menu li:hover > a, .menu .current-item > a {
 text-decoration:none;
-color:#f688d6;
+color:#f688d6;/*Hover color for text on drop-down*/
 }
 .menu .arrow {
 font-size:13px;
@@ -200,7 +200,7 @@ display:inline-block;
 text-shadow:0px 1px 0px rgba(0,0,0,0.4);
 }
 .menu > ul > li:hover > a, .menu > ul > .current-item > a {
-background:#ffffff;
+background:#ffffff;/*Drop down text, not hovering*/
 }
 /*----- Bottom Level -----*/
 .menu li:hover .sub-menu {
@@ -217,7 +217,7 @@ z-index:-1;
 opacity:0;
 transition:opacity linear 0.15s;
 box-shadow:0px 2px 3px rgba(0,0,0,0.2);
-background:#8ad2ee;
+background:#8ad2ee; /*menu color*/
 }
 .sub-menu li {
 display:block;
@@ -228,5 +228,5 @@ padding:10px 30px;
 display:block;
 }
 .sub-menu li a:hover, .sub-menu .current-item a {
-background:#6ac6ea;
+background:#6ac6ea;/*hovering menu color*/
 }
