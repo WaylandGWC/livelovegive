@@ -154,7 +154,7 @@ label{
 
 
 body {
-background:#bf5c71 url('body-bg.jpg');
+background:#ffffff url('body-bg.jpg');
 }
 .clearfix:after {
 display:block;
@@ -177,14 +177,14 @@ font-family:'Ek Mukta';
 }
 .menu a {
 transition:all linear 0.15s;
-color:#919191;
+color:#8ad2ee;
 }
 .menu li:hover > a, .menu .current-item > a {
 text-decoration:none;
-color:#be5b70;
+color:#ffffff;
 }
 .menu .arrow {
-font-size:11px;
+font-size:13px;
 line-height:0%;
 }
 /*----- Top Level -----*/
