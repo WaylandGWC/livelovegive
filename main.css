@@ -164,7 +164,7 @@ clear:both;
 .menu-wrap {
 width:100%;
 box-shadow:0px 1px 3px rgba(0,0,0,0.2);
-background:#fbc8ec;
+background:#f688d6;
 }
 .menu {
 width:1248px;
@@ -181,7 +181,7 @@ color:#8ad2ee;
 }
 .menu li:hover > a, .menu .current-item > a {
 text-decoration:none;
-color:#fbc8ec;/*-----aaaaaaaaaaaaaaaaaa-----*/
+color:#f688d6;
 }
 .menu .arrow {
 font-size:13px;
@@ -200,7 +200,7 @@ display:inline-block;
 text-shadow:0px 1px 0px rgba(0,0,0,0.4);
 }
 .menu > ul > li:hover > a, .menu > ul > .current-item > a {
-background:#8ad2ee;
+background:#ffffff;
 }
 /*----- Bottom Level -----*/
 .menu li:hover .sub-menu {
@@ -228,5 +228,5 @@ padding:10px 30px;
 display:block;
 }
 .sub-menu li a:hover, .sub-menu .current-item a {
-background:#3e3436;
+background:#6ac6ea;
 }
