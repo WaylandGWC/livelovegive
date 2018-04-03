@@ -3,7 +3,7 @@ body {
 	margin: 20px;
 	width: 100%;
   
-font-family: Capita;     }
+font-family: trebuchet;     }
 .header {margin-left: 200px; margin-right: 200px;
 	text-align: center;}
 .AboutUs {margin: 30px;
@@ -230,4 +230,3 @@ display:block;
 .sub-menu li a:hover, .sub-menu .current-item a {
 background:#6ac6ea;/*hovering menu box color*/
 }
-/*4-3-18 Make slideshow across, change font*/
