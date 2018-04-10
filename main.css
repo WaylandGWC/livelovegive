@@ -237,7 +237,6 @@ background:#6ac6ea;/*hovering menu box color*/
 	height: auto;
 	max-width: none;
 	max-height: 100vh;
-	object-fit: contain;
 	margin-left: 0px;
 	padding-left: 0px;
 } 
