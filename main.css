@@ -230,3 +230,12 @@ display:block;
 .sub-menu li a:hover, .sub-menu .current-item a {
 background:#6ac6ea;/*hovering menu box color*/
 }
+
+
+.fit{
+	width: 100vw;
+	height: auto;
+	max-width: none;
+	max-height: 100vh;
+	object-fit: contain;
+} 
